@@ -16,3 +16,10 @@
   border-radius: 10px;
   margin: 10px;
 }
+
+.headerOne {
+  max-width: 550px;
+  max-height: 550px;
+  display: flex;
+  margin: auto;
+}
